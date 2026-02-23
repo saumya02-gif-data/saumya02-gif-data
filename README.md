@@ -12,9 +12,9 @@
 - 💭**Ask me about**: Python, Excel.
 
 ## 🛠 Skills
--Python (OOP, File I/O, Dictionaries, Conditional Statements, Loops) 
-- Data Analytics fundamentals  
-- Problem-solving & Logical thinking
+ - Python (OOP, File I/O, Dictionaries, Conditional Statements, Loops)
+ - Data Analytics fundamentals  
+ - Problem-solving & Logical thinking
 
 ## 📂 Projects
 ☕ **Cafe Management System**
