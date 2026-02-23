@@ -1,7 +1,9 @@
 #  Hi,👋 I am Saumya Maurya
 # 🚀 About Me
-🎓 Computer Science and Engineering Student 
+🎓 Computer Science and Engineering Student
+
 🔭 Aspiring Data Analyst 
+
 🖥️Python enthusiast, building logic-based and practical projects  
 
 ## 🛠 Skills
