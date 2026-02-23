@@ -1,20 +1,26 @@
 #  Hi,👋 I am Saumya Maurya
-# 🚀 About Me
+
 🎓 Computer Science and Engineering Student
 
 🔭 Aspiring Data Analyst 
 
-🖥️Python enthusiast, building logic-based and practical projects  
+🖥️Python enthusiast, building logic-based and practical projects 
+
+# About Me
+- 🌱**Currently Learning** : Python, Microsoft Excel.
+- 🎯**Goal**: Become a Data Analyst.
+- 💭**Ask me about**: Python, Excel.
 
 ## 🛠 Skills
--Python (OOP, File I/O, Dictionaries, Conditional Statements, Loops)  
+-Python (OOP, File I/O, Dictionaries, Conditional Statements, Loops) 
 - Data Analytics fundamentals  
-- Problem-solving & Logical thinking  
+- Problem-solving & Logical thinking
 
 ## 📂 Projects
 ☕ **Cafe Management System**
-        -Python console application using dictionaries and conditional statements.  
-🤖 **Python Quiz Application** – Interactive Python quiz with multiple choice questions and score calculation.  
+-Python console application using dictionaries and conditional statements.  
+🤖 **Python Quiz Application** 
+-Interactive Python quiz with multiple choice questions and score calculation.  
 
 > Check out the individual project repositories for code, README, and instructions to run.
 
