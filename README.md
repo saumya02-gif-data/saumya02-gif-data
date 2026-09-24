@@ -20,7 +20,7 @@
 
 ## 📂 Projects
 
-📊 **[Olist E-Commerce Analytics Project](https://github.com/saumya02-gif-data/olist-ecommerce-project)**
+📊 **[Olist E-Commerce Project](https://github.com/saumya02-gif-data/olist-ecommerce-project)**
 End-to-end data analytics project on the Brazilian Olist e-commerce dataset — data cleaning and EDA in Python, business analysis in SQL, two ML models (delivery delay regression, review score classification), a Flask web app for live predictions, and a 3-page interactive Power BI dashboard.
 
 ☕ **Cafe Management System**
